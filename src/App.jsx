@@ -58,7 +58,7 @@ function App() {
             rel="noopener noreferrer"
             style={{
               backgroundColor: 'black',
-              marginRight: '10px'
+              marginRight: '9px'
             }}
           >
               <BsTwitterX color='white' size={26}/>
